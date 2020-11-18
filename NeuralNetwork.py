@@ -4,9 +4,11 @@ Heemani Brahmbhatt
 CS 421 - Natural Language Processing
 Movie Reviews Sentiment Analysis Neural Network
 
-Description: The following code creates a feedforward neural network to determine whether a movie review is positive or negative, and it classifies the review as such. We use metrics such as Accuracy, Precision, Recall, and F1-score to evaluate the classifier.
+Description: The following code creates a feedforward neural network to determine whether a movie review is positive or negative, 
+and it classifies the review as such. We use metrics such as Accuracy, Precision, Recall, and F1-score to evaluate the classifier.
 
-Attribution Information: The skeleton code for this project was provided by Professor Natalie Parde in a CS as a part of an assignment in the course CS 421 - Natural Language Processing, Fall 2020, University of Illinois at Chicago (UIC)
+Attribution Information: The skeleton code for this project was provided by Professor Natalie Parde in a CS as a part of an assignment 
+in the course CS 421 - Natural Language Processing, Fall 2020, University of Illinois at Chicago (UIC)
 """
 
 # Import modules
