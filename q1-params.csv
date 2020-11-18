@@ -1,0 +1,5 @@
+layers,3
+units,32
+loss,mse
+optimizer,adam
+epochs,10
